@@ -15,7 +15,7 @@ public class Login {
 		// ... (prompt user for email and password)
 		String email, password;
 
-		System.out.print("Masukkan email anda: ");
+		System.out.print("Berikan email anda: ");
 		email = scan.nextLine();
 
 		System.out.print("Masukkan password: ");
